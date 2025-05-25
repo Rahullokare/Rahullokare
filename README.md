@@ -5,11 +5,11 @@
 
 ### 🧠 About Me
 
-- 💻 Frontend Developer with 2+ years of experience
+- 💻 Frontend Developer with **3+ years of experience**
+- 🧪 Contributor at **Monkeys, Code Reviewer** (Open Source)
 - 🚀 Building **Period Tracker** — a health-first app for Indian women
-- 🛠 Working with **React**, **Next.js**, **Supabase**, **Tailwind CSS**, and **TypeScript**
-- 🌱 Currently mastering **JavaScript Map**, **Redux Toolkit**, and **Supabase Auth**
-- 💡 Passionate about building tools that **genuinely help people**
+- 🛠 Tech expertise: **React**, **Next.js**, **Supabase**, **Tailwind CSS**, **TypeScript**, **React Native**, **Node.js**, **Express.js**
+- 💡 Passionate about creating tools that **genuinely help people**
 
 ---
 
@@ -22,30 +22,8 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
-
----
-
-### 🚀 Featured Projects
-
-#### 🔴 Period Tracker App
-> A modern, private, and helpful app for Indian women to track their cycle and health. Built with Supabase, React Native, and TypeScript.
-
-- 📱 Cross-platform using React Native
-- 🔐 Supabase Auth & Realtime DB
-- 📊 Cycle prediction, calendar view, symptom logging
-
-[🔗 View Project](https://github.com/Rahullokare/PeriodTracker)
-
----
-
-#### 💬 Numerology Calculator
-> An interactive numerology tool for young users, built with Next.js and Tailwind CSS.
-
-- 🔢 Converts name to number with logic
-- ⚡ Realtime UI updates
-- 🔮 Fun & educational
-
-[🔗 View Project](https://github.com/Rahullokare/NumerologyCalculator)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
@@ -58,9 +36,9 @@
 
 ### 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/-My%20Website-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahullokare)
-[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahullokare@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-My%20Website-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rahullokare.in)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-lokare9/)
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokarerahul55@gmail.com)
 
 ---
 
