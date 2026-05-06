@@ -5,7 +5,7 @@
 
 ### 🧠 About Me
 
-- 💻 Frontend Developer with **3+ years of experience**
+- 💻 Frontend Developer with **4+ years of experience**
 - 🧪 Contributor at **Monkeys, Code Reviewer** (Open Source)
 - 🚀 Building **Period Tracker** — a health-first app for Indian women
 - 🛠 Tech expertise: **React**, **Next.js**, **Supabase**, **Tailwind CSS**, **TypeScript**, **React Native**, **Node.js**, **Express.js**
